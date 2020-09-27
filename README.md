@@ -4,7 +4,7 @@ Shell for compiling OI codes for [vscode-code-runner](https://github.com/formula
 
 Screen Shot:
 
-![Screen Shot](https://s1.ax1x.com/2020/09/27/0k1vtO.md.png)
+![Screen Shot](https://s1.ax1x.com/2020/09/27/0k1vtO.png)
 
 ## Dependencies
 
