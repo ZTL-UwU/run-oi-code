@@ -3,6 +3,7 @@
 Shell for compiling OI codes for [vscode-code-runner](https://github.com/formulahendry/vscode-code-runner).
 
 Screen Shot:
+
 ![Screen Shot](https://s1.ax1x.com/2020/09/27/0k1vtO.md.png)
 
 ## Dependencies
@@ -47,6 +48,6 @@ Press `Ctrl + Alt + N` to run code.
 
     If you don't want LLVM Clang++ as your compiler, you can change all `clang++` into `g++`.
 
-2. Compile options
+1. Compile options
 
     You can change compile options as well as CppCheck options as you like.
