@@ -2,6 +2,9 @@
 
 Shell for compiling OI codes for [vscode-code-runner](https://github.com/formulahendry/vscode-code-runner).
 
+Screen Shot:
+![Screen Shot](https://s1.ax1x.com/2020/09/27/0k1vtO.md.png)
+
 ## Dependencies
 
 1. CppCheck
