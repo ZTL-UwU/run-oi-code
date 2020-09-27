@@ -34,6 +34,10 @@ sudo apt install cppcheck build-essential llvm clang
     }
     ```
 
+## Usage
+
+Press `Ctrl + Alt + N` to run code.
+
 ## Tweaks
 
 1. Compiler
