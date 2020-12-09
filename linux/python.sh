@@ -1,1 +1,2 @@
-cd $dir && python3 $fileName
+cd $dir
+python3 $fileName
